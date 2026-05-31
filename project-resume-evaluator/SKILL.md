@@ -1,3 +1,8 @@
+---
+name: project-resume-evaluator
+description: Evaluates whether a project is strong enough for a fresher's resume. Uses scoring rubric, best practices audit, gap analysis, and complementary project suggestions. Focused on backend/fullstack roles. Grills weak points, praises strengths, and recommends abandoning weak projects outright.
+---
+
 # Resume Worthiness Review: Agent Instructions
 
 **Use your reasoning model / thinking tokens for this skill.** Do not give surface-level answers. Reason through each criterion deliberately — weigh evidence, spot contradictions, and justify every verdict with specific observations from the project. A lazy evaluation is worse than none.
